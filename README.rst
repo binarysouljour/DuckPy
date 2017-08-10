@@ -9,7 +9,7 @@ DuckPy [Pythonized Rubber ducky Scripts V.1]
 Installation
 =======
 
-**No installation** Required. Just copy the contents into your pendrive and create a **Autorun.inf** file to automatically execute the 
+**No installation** Required. Just copy the contents into your pendrive and create a **[Autorun.inf]** file to automatically execute the 
 
 **DuckPy_Scripts** .
 
