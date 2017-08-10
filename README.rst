@@ -25,4 +25,4 @@ Prerequisites
 About 
 =======
 
-**This** application automates like **RubberDucky** .
+**This** application automates everything like **RubberDucky** .
