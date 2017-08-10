@@ -1,5 +1,5 @@
 ==========================
-Knock Subdomain Scan v.4.1.0
+DuckPy [Pythonized Rubber ducky Scripts V.1]
 ==========================
 
 **DuckPy** is an application written in Python. It is designed to execute **Rubber Ducky Scripts** and to do some cool stuff !!.. 
