@@ -25,6 +25,4 @@ Prerequisites
 About 
 =======
 
-**This** application automates like **RubberDucky** and Displays a message " Hello Talented Pentesters Hut! ". For more info visit 
-
-**www.tphinfosec.com**
+**This** application automates like **RubberDucky** .
