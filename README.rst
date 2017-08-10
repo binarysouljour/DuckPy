@@ -11,6 +11,8 @@ Installation
 
 **No installation** Required !. Just copy the contents into your pendrive and create a **Autorun.inf** file to automatically execute the 
 **DuckPy_Scripts** .
+
+
 =======
 Prerequisites
 =======
